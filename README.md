@@ -1,4 +1,4 @@
-<b>Run this Project</b>
+<b>Run This Project</b>
 <ol>
     <li>First need to run the migration.</li>
     <li>Then run seed to insert dummy data.</li>
